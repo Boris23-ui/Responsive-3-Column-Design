@@ -34,7 +34,7 @@ const Home = () => {
       display: "flex", 
       justifyContent: "center", 
       alignItems: "center",
-      height: "98vh",
+      height: mobile ? "auto" : "98vh",
       flexDirection: mobile ? "column" : "row",
     }} >
       {data.map((card) => {
