@@ -51,13 +51,6 @@ To run the application in development mode, use the following command:
 
 Open your browser and navigate to `http://localhost:3000` to see the application in action.
 
-## Building for Production
-
-To build the application for production, run:
-
-
-Then, you can start the production server with:
-
 
 ## Contributing
 
